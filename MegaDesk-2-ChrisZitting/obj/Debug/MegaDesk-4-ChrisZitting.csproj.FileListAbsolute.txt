@@ -1,0 +1,15 @@
+C:\Users\Chris\ownCloud\CIT 365\Week 4\MegaDesk-4-ChrisZitting\MegaDesk-4-ChrisZitting\obj\Debug\MegaDesk-4-ChrisZitting.csprojResolveAssemblyReference.cache
+C:\Users\Chris\ownCloud\CIT 365\Week 4\MegaDesk-4-ChrisZitting\MegaDesk-4-ChrisZitting\obj\Debug\MegaDesk_3_ChrisZitting.AddQuote.resources
+C:\Users\Chris\ownCloud\CIT 365\Week 4\MegaDesk-4-ChrisZitting\MegaDesk-4-ChrisZitting\obj\Debug\MegaDesk_3_ChrisZitting.DisplayQuote.resources
+C:\Users\Chris\ownCloud\CIT 365\Week 4\MegaDesk-4-ChrisZitting\MegaDesk-4-ChrisZitting\obj\Debug\MegaDesk_3_ChrisZitting.MainMenu.resources
+C:\Users\Chris\ownCloud\CIT 365\Week 4\MegaDesk-4-ChrisZitting\MegaDesk-4-ChrisZitting\obj\Debug\MegaDesk_3_ChrisZitting.Properties.Resources.resources
+C:\Users\Chris\ownCloud\CIT 365\Week 4\MegaDesk-4-ChrisZitting\MegaDesk-4-ChrisZitting\obj\Debug\MegaDesk_3_ChrisZitting.SearchQuotes.resources
+C:\Users\Chris\ownCloud\CIT 365\Week 4\MegaDesk-4-ChrisZitting\MegaDesk-4-ChrisZitting\obj\Debug\MegaDesk_3_ChrisZitting.ViewAllQuotes.resources
+C:\Users\Chris\ownCloud\CIT 365\Week 4\MegaDesk-4-ChrisZitting\MegaDesk-4-ChrisZitting\obj\Debug\MegaDesk-4-ChrisZitting.csproj.GenerateResource.Cache
+C:\Users\Chris\ownCloud\CIT 365\Week 4\MegaDesk-4-ChrisZitting\MegaDesk-4-ChrisZitting\obj\Debug\MegaDesk-4-ChrisZitting.csproj.CoreCompileInputs.cache
+C:\Users\Chris\ownCloud\CIT 365\Week 4\MegaDesk-4-ChrisZitting\MegaDesk-4-ChrisZitting\obj\Debug\MegaDesk-3-ChrisZitting.exe
+C:\Users\Chris\ownCloud\CIT 365\Week 4\MegaDesk-4-ChrisZitting\MegaDesk-4-ChrisZitting\obj\Debug\MegaDesk-3-ChrisZitting.pdb
+C:\Users\Chris\ownCloud\CIT 365\Week 4\MegaDesk-4-ChrisZitting\MegaDesk-4-ChrisZitting\bin\Debug\MegaDesk-3-ChrisZitting.exe.config
+C:\Users\Chris\ownCloud\CIT 365\Week 4\MegaDesk-4-ChrisZitting\MegaDesk-4-ChrisZitting\bin\Debug\MegaDesk-3-ChrisZitting.exe
+C:\Users\Chris\ownCloud\CIT 365\Week 4\MegaDesk-4-ChrisZitting\MegaDesk-4-ChrisZitting\bin\Debug\MegaDesk-3-ChrisZitting.pdb
+C:\Users\Chris\ownCloud\CIT 365\Week 4\MegaDesk-4-ChrisZitting\MegaDesk-4-ChrisZitting\obj\Debug\MegaDesk_3_ChrisZitting.DeskQuoteView.resources

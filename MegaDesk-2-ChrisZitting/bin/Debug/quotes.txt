@@ -1,0 +1,13 @@
+MegaDesk Desk Quotes
+************************
+Pizza, 2/6/2018 12:00:00 AM, 43, 23, 3, Pine, 3, 460
+John Paul, 2/6/2018 12:00:00 AM, 24, 24, 3, Pine, 3, 460
+John Arthur, 2/6/2018 12:00:00 AM, 95, 47, 2, Oak, 0, 3965
+June Shmeer, 2/8/2018 12:00:00 AM, 26, 36, 4, Veneer, 3, 585
+Johnny Appleseed, 2/8/2018 12:00:00 AM, 24, 36, 4, Rosewood, 5, 740
+John Paul, 02/08/2018, 26, 32, 3, Rosewood, 7, 680
+Bill Gates, 02/08/2018, 24, 26, 2, Oak, 0, 500
+Bill Gates, 02/08/2018, 24, 35, 2, Oak, 5, 540
+George Washington, 02/08/2018, 24, 34, 2, Veneer, 5, 465
+Abraham Lincoln, 02/08/2018, 25, 12, 1, Pine, 0, 300
+Richard Nixon, 02/08/2018, 24, 12, 1, Rosewood, 0, 550

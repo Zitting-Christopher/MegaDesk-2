@@ -1,0 +1,22 @@
+[
+  {
+    "Customer Name": "Bilbo Baggins",
+    "Quote Date": "02/08/2018",
+    "Desk Width": "24",
+    "Desk Depth": "36",
+    "Drawers": "3",
+    "Surface Material": "Oak",
+    "Rush Days": "3",
+    "Desk Quote Total": "894"
+  },
+  {
+    "CustomerName": "Richard Nixon",
+    "Quote Date": "02/08/2018",
+    "Desk Width": 24.0,
+    "Desk Depth": 12.0,
+    "Drawers": 1,
+    "Surface Material": "Rosewood",
+    "Rush Days": 0,
+    "Total": 550.0
+  }
+]
