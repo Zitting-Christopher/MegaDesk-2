@@ -202,6 +202,7 @@
             // 
             // dd_aq_numDrawers
             // 
+            this.dd_aq_numDrawers.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.dd_aq_numDrawers.FormattingEnabled = true;
             this.dd_aq_numDrawers.Items.AddRange(new object[] {
             "0",
@@ -388,7 +389,7 @@
             this.Controls.Add(this.btn_aq_back);
             this.Name = "AddQuote";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Add Quote";
+            this.Text = "MegaDesk - Add Quote";
             this.ResumeLayout(false);
             this.PerformLayout();
 

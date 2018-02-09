@@ -90,7 +90,7 @@
             this.MaximizeBox = false;
             this.Name = "MainMenu";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Main Menu";
+            this.Text = "MegaDesk - Main Menu";
             this.ResumeLayout(false);
 
         }

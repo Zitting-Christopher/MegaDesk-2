@@ -12,7 +12,7 @@ namespace MegaDesk_3_ChrisZitting
 {
     public partial class DeskQuoteView : Form
     {
-        public DeskQuoteView(string customerName, string quoteDate, double width, double depth, int numOfDrawers, string DesktopMaterial, int rushOrderDays, int deskQuote)       
+        public DeskQuoteView(string customerName, string quoteDate, double width, double depth, int numOfDrawers, string DesktopMaterial, string rushOrderDays, int deskQuote)       
         {
             InitializeComponent();
             la_vdq_cname.Text = customerName;
@@ -22,14 +22,14 @@ namespace MegaDesk_3_ChrisZitting
             la_vdq_drawers.Text = numOfDrawers.ToString();
             la_vdq_material.Text = DesktopMaterial;
 
-            if (rushOrderDays == 0)
+            if (rushOrderDays == "Standard")
             {
                 la_vdq_days.Text = "None";
             }
 
             else
             {
-                la_vdq_days.Text = rushOrderDays.ToString() + " days";
+                la_vdq_days.Text = rushOrderDays.ToString();
             }
             la_vdq_total.Text = String.Format("{0:C}", deskQuote);
         }

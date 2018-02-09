@@ -6,7 +6,7 @@
     "Desk Depth": "36",
     "Drawers": "3",
     "Surface Material": "Oak",
-    "Rush Days": "3",
+    "Rush Days": "3 days",
     "Desk Quote Total": "894"
   },
   {
@@ -16,7 +16,97 @@
     "Desk Depth": 12.0,
     "Drawers": 1,
     "Surface Material": "Rosewood",
-    "Rush Days": 0,
+    "Rush Days": "Standard",
     "Total": 550.0
+  },
+  {
+    "CustomerName": "Steve Jobs",
+    "Quote Date": "02/08/2018",
+    "Desk Width": 96.0,
+    "Desk Depth": 48.0,
+    "Drawers": 5,
+    "Surface Material": "Veneer",
+    "Rush Days": "3 days",
+    "Total": 4263.0
+  },
+  {
+    "CustomerName": "Joe Dirt",
+    "Quote Date": "02/08/2018",
+    "Desk Width": 24.0,
+    "Desk Depth": 12.0,
+    "Drawers": 1,
+    "Surface Material": "Laminate",
+    "Rush Days": "Standard",
+    "Total": 350.0
+  },
+  {
+    "CustomerName": "Santa Claus",
+    "Quote Date": "02/08/2018",
+    "Desk Width": 96.0,
+    "Desk Depth": 48.0,
+    "Drawers": 5,
+    "Surface Material": "Oak",
+    "Rush Days": "3 days",
+    "Total": 4338.0
+  },
+  {
+    "CustomerName": "Elvis Presley",
+    "Quote Date": "02/08/2018",
+    "Desk Width": 24.0,
+    "Desk Depth": 12.0,
+    "Drawers": 1,
+    "Surface Material": "Laminate",
+    "Rush Days": "Standard",
+    "Total": 350.0
+  },
+  {
+    "CustomerName": "Steve Perry",
+    "Quote Date": "02/08/2018",
+    "Desk Width": 24.0,
+    "Desk Depth": 12.0,
+    "Drawers": 2,
+    "Surface Material": "Pine",
+    "Rush Days": "Standard",
+    "Total": 350.0
+  },
+  {
+    "CustomerName": "Ozzy Ozborne",
+    "Quote Date": "02/08/2018",
+    "Desk Width": 54.0,
+    "Desk Depth": 25.0,
+    "Drawers": 1,
+    "Surface Material": "Pine",
+    "Rush Days": "3 days",
+    "Total": 650.0
+  },
+  {
+    "CustomerName": "Jack Black",
+    "Quote Date": "02/08/2018",
+    "Desk Width": 26.0,
+    "Desk Depth": 47.0,
+    "Drawers": 3,
+    "Surface Material": "Laminate",
+    "Rush Days": "5 days",
+    "Total": 672.0
+  },
+  {
+    "CustomerName": "Johnny Depp",
+    "Quote Date": "02/08/2018",
+    "Desk Width": 27.0,
+    "Desk Depth": 43.0,
+    "Drawers": 4,
+    "Surface Material": "Rosewood",
+    "Rush Days": "7 days",
+    "Total": 861.0
+  },
+  {
+    "CustomerName": "Tom Cruise",
+    "Quote Date": "02/08/2018",
+    "Desk Width": 96.0,
+    "Desk Depth": 48.0,
+    "Drawers": 5,
+    "Surface Material": "Oak",
+    "Rush Days": "3 days",
+    "Total": 4258.0
   }
 ]

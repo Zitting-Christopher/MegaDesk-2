@@ -3,7 +3,6 @@ C:\Users\Chris\ownCloud\CIT 365\Week 5\MegaDesk-2-ChrisZitting\MegaDesk-2-ChrisZ
 C:\Users\Chris\ownCloud\CIT 365\Week 5\MegaDesk-2-ChrisZitting\MegaDesk-2-ChrisZitting\bin\Debug\MegaDesk-3-ChrisZitting.pdb
 C:\Users\Chris\ownCloud\CIT 365\Week 5\MegaDesk-2-ChrisZitting\MegaDesk-2-ChrisZitting\obj\Debug\MegaDesk-2-ChrisZitting.csprojResolveAssemblyReference.cache
 C:\Users\Chris\ownCloud\CIT 365\Week 5\MegaDesk-2-ChrisZitting\MegaDesk-2-ChrisZitting\obj\Debug\MegaDesk_3_ChrisZitting.AddQuote.resources
-C:\Users\Chris\ownCloud\CIT 365\Week 5\MegaDesk-2-ChrisZitting\MegaDesk-2-ChrisZitting\obj\Debug\MegaDesk_3_ChrisZitting.DisplayQuote.resources
 C:\Users\Chris\ownCloud\CIT 365\Week 5\MegaDesk-2-ChrisZitting\MegaDesk-2-ChrisZitting\obj\Debug\MegaDesk_3_ChrisZitting.DeskQuoteView.resources
 C:\Users\Chris\ownCloud\CIT 365\Week 5\MegaDesk-2-ChrisZitting\MegaDesk-2-ChrisZitting\obj\Debug\MegaDesk_3_ChrisZitting.MainMenu.resources
 C:\Users\Chris\ownCloud\CIT 365\Week 5\MegaDesk-2-ChrisZitting\MegaDesk-2-ChrisZitting\obj\Debug\MegaDesk_3_ChrisZitting.Properties.Resources.resources

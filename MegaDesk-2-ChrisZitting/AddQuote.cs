@@ -20,9 +20,8 @@ namespace MegaDesk_3_ChrisZitting
         double DeskWidth = 0;
         double DeskDepth = 0;
         int Drawers = 0;
-        string Material = "";
         SurfaceMaterial SurfaceMaterial;
-        int RushOrderDays = 0;
+        string RushOrderDays = "Standard";
         double DeskQuoteTotal = 0;
         string DateNow = "";
 
@@ -100,23 +99,23 @@ namespace MegaDesk_3_ChrisZitting
                 Drawers = int.Parse(dd_aq_numDrawers.Text);
                 string Material = dd_aq_surfMat.SelectedItem.ToString();
                 Enum.TryParse(Material, out SurfaceMaterial);
-                MessageBox.Show(SurfaceMaterial.ToString());
+                //MessageBox.Show(SurfaceMaterial.ToString());
                 DateNow = DateTime.Now.ToString("MM/dd/yyyy");
 
                 //get the expedite preference
                 if (rb_aq_rush1.Checked)
                 {
-                    RushOrderDays = 3;
+                    RushOrderDays = "3 days";
                 }
 
                 if (rb_aq_rush2.Checked)
                 {
-                    RushOrderDays = 5;
+                    RushOrderDays = "5 days";
                 }
 
                 if (rb_aq_rush3.Checked)
                 {
-                    RushOrderDays = 7;
+                    RushOrderDays = "7 days";
                 }
             }
 
@@ -137,7 +136,7 @@ namespace MegaDesk_3_ChrisZitting
 
             try
             {
-                var record = CustomerName + ", " +  DateNow + ", " + DeskWidth + ", " + DeskDepth + ", " + Drawers + ", " + SurfaceMaterial.ToString() + ", " + RushOrderDays + ", " + DeskQuoteTotal;
+                var record = CustomerName + "," +  DateNow + "," + DeskWidth + " in." + "," + DeskDepth + " in." + "," + Drawers + "," + SurfaceMaterial.ToString() + "," + RushOrderDays + "," + DeskQuoteTotal;
 
                 //File parameters
                 string outputFile = @"quotes.txt";

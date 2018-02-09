@@ -13,22 +13,22 @@ namespace MegaDesk_3_ChrisZitting
         private const double COST_DRAWER = 50;
         private const double AREA_THRESHOLD = 1000; //Inches squared for the area of desk
         private const double EXCESS_SURF_AREA = 1; //Cost per square inch over threshold
-        private const int RUSH1 = 3;
-        private const int RUSH2 = 5;
-        private const int RUSH3 = 7;
+        private const string RUSH1 = "3";
+        private const string RUSH2 = "5";
+        private const string RUSH3 = "7";
         private const int RUSH_THRESHOLD = 2000; //Inches squared area of desk
 
         //Desk quote variables
         private string CustomerName { get; set; }
         private DateTime QuoteDate { get; set; }
-        private int RushDays { get; set; }
+        private string RushDays { get; set; }
         private Desk Desk = new Desk();
         private double QuoteAmount { get; set; }
 
         //local variables
         private double SurfaceArea = 0;
 
-        public DeskQuote(string customerName, int rushDays, double width, double depth, int numOfDrawers, SurfaceMaterial material)
+        public DeskQuote(string customerName, string rushDays, double width, double depth, int numOfDrawers, SurfaceMaterial material)
         {
             CustomerName = customerName;
             RushDays = rushDays;
@@ -61,7 +61,7 @@ namespace MegaDesk_3_ChrisZitting
         public double RushCost()
         {
             int rCost = 0;
-            if (RushDays != 0)
+            if (RushDays != "Standard")
             {
                 int[,] rushOrderPrices = GetRushOrderPrices();
 

@@ -230,6 +230,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(393, 551);
+            this.ControlBox = false;
             this.Controls.Add(this.la_vdq_total);
             this.Controls.Add(this.la_vdq_days);
             this.Controls.Add(this.la_vdq_material);
@@ -248,8 +249,9 @@
             this.Controls.Add(this.label1);
             this.Controls.Add(this.btn_vdq_close);
             this.Name = "DeskQuoteView";
+            this.ShowIcon = false;
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "View Desk Quote";
+            this.Text = "MegaDesk - View Desk Quote";
             this.ResumeLayout(false);
             this.PerformLayout();
 
